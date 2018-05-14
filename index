@@ -1,2 +1,7 @@
 first edit in master
+<<<<<<< HEAD
 first edit in branch1
+=======
+first edit in branch2:wq
+
+>>>>>>> branch2
